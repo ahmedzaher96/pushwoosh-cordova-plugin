@@ -55,8 +55,18 @@
 		<source-file src="src/android/src/com/pushwoosh/plugin/internal/PhonegapPluginProvider.java"
 			target-dir="src/com/pushwoosh/plugin/internal" />
 
-		<framework src="com.google.firebase:firebase-core:(+,17.0.0)" />
-		<framework src="com.google.firebase:firebase-messaging:(+,19.0.0)" />
+<framework src="com.google.firebase:firebase-analytics:11.6.0" />
+<framework src="com.google.android.gms:play-services-auth:11.6.0" />
+<framework src="com.google.android.gms:play-services-auth-base:11.6.0" />
+<framework src="com.google.android.gms:play-services-base:11.6.0" />
+<framework src="com.google.firebase:firebase-analytics-impl:11.6.0" />
+<framework src="com.google.firebase:firebase-storage-common:11.6.0" />
+<framework src="com.google.firebase:firebase-common:11.6.0" />
+<framework src="com.google.android.gms:play-services-tasks:11.6.0" />
+
+
+		<framework src="com.google.firebase:firebase-core:11.6.0" />
+		<framework src="com.google.firebase:firebase-messaging:11.6.0" />
 
 		<framework src="com.android.support:support-v4:27.+" />
         <framework src="com.android.support:appcompat-v7:27.+" />
