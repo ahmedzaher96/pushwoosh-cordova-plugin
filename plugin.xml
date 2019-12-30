@@ -58,13 +58,13 @@
 
 		
 
-<framework src="com.google.firebase:firebase-config:11.6.0" />
-<framework src="com.google.firebase:firebase-auth:11.6.0" />
-<framework src="com.google.firebase:firebase-messaging:11.6.0" />
-<framework src="com.google.firebase:firebase-common:11.6.0" />
-<framework src="com.google.firebase:firebase-appindexing:11.6.0" />
-<framework src="com.google.firebase:firebase-analytics:11.6.0" />
-<framework src="com.google.firebase:firebase-analytics-impl:11.6.0" />
+<framework src="com.google.firebase:firebase-config:$ANDROID_SUPPORT_VERSION" />
+<framework src="com.google.firebase:firebase-auth:$ANDROID_SUPPORT_VERSION" />
+<framework src="com.google.firebase:firebase-messaging:$ANDROID_SUPPORT_VERSION" />
+<framework src="com.google.firebase:firebase-common:$ANDROID_SUPPORT_VERSION" />
+<framework src="com.google.firebase:firebase-appindexing:$ANDROID_SUPPORT_VERSION" />
+<framework src="com.google.firebase:firebase-analytics:$ANDROID_SUPPORT_VERSION" />
+<framework src="com.google.firebase:firebase-analytics-impl:$ANDROID_SUPPORT_VERSION" />
 		
 		
 		
