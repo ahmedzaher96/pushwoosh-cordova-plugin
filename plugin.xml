@@ -58,44 +58,6 @@
 
 		
 
-
-<framework src="com.google.android.gms:play-services-ads:11.6.0" />
-<framework src="com.google.android.gms:play-services-ads-lite:11.6.0" />
-<framework src="com.google.android.gms:play-services-analytics:11.6.0" />
-<framework src="com.google.android.gms:play-services-analytics-impl:11.6.0" />
-<framework src="com.google.android.gms:play-services-appinvite:11.6.0" />
-<framework src="com.google.android.gms:play-services-auth-api-phone:11.6.0" />
-<framework src="com.google.android.gms:play-services-auth:11.6.0" />
-<framework src="com.google.android.gms:play-services-auth-base:11.6.0" />
-<framework src="com.google.android.gms:play-services-base:11.6.0" />
-<framework src="com.google.android.gms:play-services-cast-framework:11.6.0" />
-<framework src="com.google.android.gms:play-services-cast:11.6.0" />
-<framework src="com.google.android.gms:play-services-basement:11.6.0" />
-<framework src="com.google.android.gms:play-services-awareness:11.6.0" />
-<framework src="com.google.android.gms:play-services-drive:11.6.0" />
-<framework src="com.google.android.gms:play-services-fido:11.6.0" />
-<framework src="com.google.android.gms:play-services-fitness:11.6.0" />
-<framework src="com.google.android.gms:play-services-games:11.6.0" />
-<framework src="com.google.android.gms:play-services-gass:11.6.0" />
-<framework src="com.google.android.gms:play-services-gcm:11.6.0" />
-<framework src="com.google.android.gms:play-services-identity:11.6.0" />
-<framework src="com.google.android.gms:play-services-iid:11.6.0" />
-<framework src="com.google.android.gms:play-services-instantapps:11.6.0" />
-<framework src="com.google.android.gms:play-services-location:11.6.0" />
-<framework src="com.google.android.gms:play-services-maps:11.6.0" />
-<framework src="com.google.android.gms:play-services-nearby:11.6.0" />
-<framework src="com.google.android.gms:play-services-panorama:11.6.0" />
-<framework src="com.google.android.gms:play-services-places:11.6.0" />
-<framework src="com.google.android.gms:play-services-plus:11.6.0" />
-<framework src="com.google.android.gms:play-services-safetynet:11.6.0" />
-<framework src="com.google.android.gms:play-services-tagmanager-api:11.6.0" />
-<framework src="com.google.android.gms:play-services-tagmanager:11.6.0" />
-<framework src="com.google.android.gms:play-services-tagmanager-v4-impl:11.6.0" />
-<framework src="com.google.android.gms:play-services-tasks:11.6.0" />
-<framework src="com.google.android.gms:play-services-vision-common:11.6.0" />
-<framework src="com.google.android.gms:play-services-vision:11.6.0" />
-<framework src="com.google.android.gms:play-services-wallet:11.6.0" />
-<framework src="com.google.android.gms:play-services-wearable:11.6.0" />
 <framework src="com.google.firebase:firebase-config:11.6.0" />
 <framework src="com.google.firebase:firebase-crash:11.6.0" />
 <framework src="com.google.firebase:firebase-auth:11.6.0" />
