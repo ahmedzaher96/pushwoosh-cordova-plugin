@@ -14,8 +14,8 @@ buildscript {
 
 ext.cdvPluginPostBuildExtras = {
     configurations.all { 
-            resolutionStrategy.force 'com.google.android.gms:play-services-basement:11.6.0'
-            resolutionStrategy.force 'com.google.android.gms:play-services-base:11.6.0'
+            resolutionStrategy.force "com.google.android.gms:play-services-basement:$PLAY_SERVICES_VERSION"
+            resolutionStrategy.force "com.google.android.gms:play-services-base:$PLAY_SERVICES_VERSION"
     }
 
     rootProject.subprojects {
