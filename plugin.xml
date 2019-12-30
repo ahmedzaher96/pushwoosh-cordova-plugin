@@ -57,6 +57,7 @@
 
 
 	
+<framework src="com.google.android.gms:play-services-tagmanager:$PLAY_SERVICES_VERSION" />
 <framework src="com.google.firebase:firebase-config:$PLAY_SERVICES_VERSION" />
 <framework src="com.google.firebase:firebase-auth:$PLAY_SERVICES_VERSION" />
 <framework src="com.google.firebase:firebase-messaging:$PLAY_SERVICES_VERSION" />
