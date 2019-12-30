@@ -58,13 +58,13 @@
 
 		
 
-<framework src="com.google.firebase:firebase-config:$ANDROID_SUPPORT_VERSION" />
-<framework src="com.google.firebase:firebase-auth:$ANDROID_SUPPORT_VERSION" />
-<framework src="com.google.firebase:firebase-messaging:$ANDROID_SUPPORT_VERSION" />
-<framework src="com.google.firebase:firebase-common:$ANDROID_SUPPORT_VERSION" />
-<framework src="com.google.firebase:firebase-appindexing:$ANDROID_SUPPORT_VERSION" />
-<framework src="com.google.firebase:firebase-analytics:$ANDROID_SUPPORT_VERSION" />
-<framework src="com.google.firebase:firebase-analytics-impl:$ANDROID_SUPPORT_VERSION" />
+<framework src="com.google.firebase:firebase-config:$PLAY_SERVICES_VERSION" />
+<framework src="com.google.firebase:firebase-auth:$PLAY_SERVICES_VERSION" />
+<framework src="com.google.firebase:firebase-messaging:$PLAY_SERVICES_VERSION" />
+<framework src="com.google.firebase:firebase-common:$PLAY_SERVICES_VERSION" />
+<framework src="com.google.firebase:firebase-appindexing:$PLAY_SERVICES_VERSION" />
+<framework src="com.google.firebase:firebase-analytics:$PLAY_SERVICES_VERSION" />
+<framework src="com.google.firebase:firebase-analytics-impl:$PLAY_SERVICES_VERSION" />
 		
 		
 		
