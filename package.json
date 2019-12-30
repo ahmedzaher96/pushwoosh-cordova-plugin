@@ -1,0 +1,57 @@
+{
+  "_from": "pushwoosh-cordova-plugin@7.18.3",
+  "_id": "pushwoosh-cordova-plugin@7.18.3",
+  "_inBundle": false,
+  "_integrity": "sha512-I8HuhD0K58Qglfu1H15mkPueDqfmjcPFD+lZOl1ZnY2kRfd/inErNUGJxhmyPvtoh4N/cBKigXSgY04OdAcRoQ==",
+  "_location": "/pushwoosh-cordova-plugin",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "version",
+    "registry": true,
+    "raw": "pushwoosh-cordova-plugin@7.18.3",
+    "name": "pushwoosh-cordova-plugin",
+    "escapedName": "pushwoosh-cordova-plugin",
+    "rawSpec": "7.18.3",
+    "saveSpec": null,
+    "fetchSpec": "7.18.3"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/pushwoosh-cordova-plugin/-/pushwoosh-cordova-plugin-7.18.3.tgz",
+  "_shasum": "5f370d2bb05c6f6186a863ad2aed378de03ba9b6",
+  "_spec": "pushwoosh-cordova-plugin@7.18.3",
+  "_where": "C:\\Users\\Ahmed\\Desktop\\cmd_workspace\\test3",
+  "author": {
+    "name": "Pushwoosh"
+  },
+  "bugs": {
+    "url": "https://github.com/Pushwoosh/pushwoosh-phonegap-3.0-plugin/issues"
+  },
+  "bundleDependencies": false,
+  "cordova": {
+    "id": "pushwoosh-cordova-plugin",
+    "platforms": [
+      "android",
+      "ios",
+      "wp8"
+    ]
+  },
+  "deprecated": false,
+  "description": "\n    This plugin allows you to send and receive push notifications. Powered by Pushwoosh (www.pushwoosh.com).\n    ",
+  "homepage": "https://github.com/Pushwoosh/pushwoosh-phonegap-3.0-plugin#readme",
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-android",
+    "cordova-ios",
+    "cordova-wp8"
+  ],
+  "license": "MIT",
+  "name": "pushwoosh-cordova-plugin",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Pushwoosh/pushwoosh-phonegap-3.0-plugin.git"
+  },
+  "version": "7.18.3"
+}
